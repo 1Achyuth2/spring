@@ -1,0 +1,7 @@
+com\mphasis\Book\repository\BookStoreRepository.class
+com\mphasis\Book\Domain\Book.class
+com\mphasis\Book\controller\BookStoreRestController.class
+com\mphasis\Book\service\BookStoreService.class
+com\mphasis\Book\service\IBookStoreService.class
+com\mphasis\Book\ServletInitializer.class
+com\mphasis\Book\BookApplication.class
